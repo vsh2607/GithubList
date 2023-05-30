@@ -9,7 +9,7 @@ android {
     compileSdk 33
 
     defaultConfig {
-        buildConfigField("String", "API_KEY", '"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"')
+        buildConfigField("String", "API_KEY", '"github_token"')
     }
 
     defaultConfig {
